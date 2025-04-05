@@ -1,0 +1,5 @@
+site_name: Kentuck Map Viewer Help
+# pages:
+#  - Home: index.md
+#  - Widgets: widget.md
+theme: readthedocs
