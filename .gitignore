@@ -1,1 +1,6 @@
 .venv
+<<<<<<< HEAD
+=======
+*.mov
+.DS_Store
+>>>>>>> 8fc70b678a3552acd3dcceffecd2efd97ff4a673
