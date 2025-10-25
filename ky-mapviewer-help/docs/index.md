@@ -6,7 +6,7 @@ Direct link to Map [documentation](map/index.md)
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; width: 70%; padding-right: 20px;">
+    <td style="vertical-align: top; width: 60%; padding-right: 20px;">
       <h3>Table of Contents</h3>
       <ul>
         <li>Home</li>
