@@ -1,6 +1,7 @@
 site_name: Kentuck Map Viewer Help
 nav:
  - Home: index.md
+ - Menus: menu/index.md
  - Map: map/index.md
- - Widgets: widgets/index.md
-theme: readthedocs
+theme:
+  name: readthedocs
