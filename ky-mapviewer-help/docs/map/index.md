@@ -56,6 +56,25 @@ Hold the Shift key down, then hold the left mouse button down and drag to draw a
 | Right Click & Hold | Rotate |
 | Shift + Left + Drag | Draw a rectangle to zoom|
 
+## Working with Layers
+
+### Base Layers
+
+Users have the ability to switch base layers depending on their needs or interests. Some people prefer a street map based view while others like to see landcover, topography, and aerial images as they zoom in closer and closer. These different base layers can be activated using the Base Map Gallery widget that is located with the other tools in the map viewer header. Users have the ability to use the Kentucky Base Map, the Kentucky Topography Map, Aerials from different years, or Esri's topographic or street base. Simply click on the desired base map to make it active. 
+
+<p align="center">
+  <img src="assets/basemap.png" width="650px" height="auto" />
+  <figcaption><strong>Figure:</strong> The web apps provide a variety of base map layers ranging from Kentucky-based layers, Esri-based Layers, Open Street Map and USGS.</figcaption>
+</p>
+
+### Thematic Layers
+
+Thematic, or operational, layers are usually the primary focus of the site. Things such as the weather radar, state parks, wastewater treatment plants, and geodetic control points are examples of thematic layers. These layers can be activated by checking the box to the left of the layer name. Clicking on the little pulldown menu to the right of the layer name allows the users to set the transparency, open the attribute table, move it up or down in the list, or zoom to its full extent.
+
+<p align="center">
+  <img src="assets/map-layers.png" width="350px" height="auto" />
+</p>
+
 ## Search 
 
 The search tool leverages different geocoding services to enable searching for a geolocation.
