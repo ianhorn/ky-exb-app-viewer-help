@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>Widgets - Kentuck Map Viewer Help</title>
+    <title>Menus - Kentuck Map Viewer Help</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Widgets";
-        var mkdocs_page_input_path = "widgets/index.md";
+        var mkdocs_page_name = "Menus";
+        var mkdocs_page_input_path = "menu/index.md";
         var mkdocs_page_url = null;
       </script>
     
@@ -43,14 +43,14 @@
                 <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
                 </li>
               </ul>
-              <ul>
-                <li class="toctree-l1"><a class="reference internal" href="../map/">Map</a>
-                </li>
-              </ul>
               <ul class="current">
-                <li class="toctree-l1 current"><a class="reference internal current" href="#">Widgets</a>
+                <li class="toctree-l1 current"><a class="reference internal current" href="#">Menus</a>
     <ul class="current">
     </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../map/">Map</a>
                 </li>
               </ul>
       </div>
@@ -67,7 +67,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
-      <li class="breadcrumb-item active">Widgets</li>
+      <li class="breadcrumb-item active">Menus</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -78,7 +78,7 @@
               
                 <h1 id="widgets-menu">Widgets Menu</h1>
 <p>The main toolbar can contain tools that interact with the map, bring up a widget dialog, or provide information.</p>
-<p><img alt="Widget Menu" src="../media/widget-menu.png" /></p>
+<p><img alt="Widget Menu" src="assets/widget-menu.png" /></p>
 <table>
 <thead>
 <tr>
@@ -88,32 +88,52 @@
 </thead>
 <tbody>
 <tr>
-<td><img alt="zoom to feature" src="assets/zoom-to-feature.png" /></td>
-<td>The Zoom to Feature widget allows users to zoom to a particular City, County,<br>or other designated feature such as a State Park or Trailhead.</td>
+<td><img alt="Zoom to County" src="svg/zoom-to-county.svg" /></td>
+<td>The Zoom to County widget allows users to zoom to a particular County.</td>
 </tr>
 <tr>
-<td><img alt="bookmark" src="assets/bookmark.png" /></td>
-<td>This widget displays a list of predefined spatial bookmarks. Users can add and<br>delete bookmarks and those changes are maintained on your computer unitl<br> you empty your browser cache.</td>
+<td><img alt="Zoom to City" src="svg/zoom-to-city.svg" /></td>
+<td>The Zoom to City widget widget allows users to zoom to a particular City.</td>
 </tr>
 <tr>
-<td><img alt="basemap" src="assets/basemap.png" /></td>
-<td>The Base Map widget allows users to select from a gallery of available base<br>map layers.</td>
+<td><img alt="School and Hospital Search" src="svg/school-hospital-search.svg" /></td>
+<td>This widget allows users to zoome to schools and hospitals.</td>
 </tr>
 <tr>
-<td><img alt="legend" src="assets/legend.png" /></td>
+<td><img alt="Legend" src="svg/legends.svg" /></td>
 <td>The Legend widget shows the symbology of map layers and changes as layers<br>are turned on or off.</td>
 </tr>
 <tr>
-<td><img alt="layers" src="assets/layers.png" /></td>
+<td><img alt="Layers" src="svg/layers.svg" /></td>
 <td>The Map Layers widget shows the layers in the map and allows users to turn<br>them on, off, change the transparency, zoom to that layer, or even open the attribute table.</td>
 </tr>
 <tr>
-<td><img alt="draw" src="assets/draw.png" /></td>
+<td><img alt="Basemaps" src="svg/basemaps.svg" /></td>
+<td>The Base Map widget allows users to select from a gallery of available base<br>map layers.</td>
+</tr>
+<tr>
+<td><img alt="Add Data" src="svg/add-data.svg" /></td>
+<td>The Add Data widget allows users to add data to the map from a URL or file<br>(<em>Shapefile, CSV, KML, GeoJSON, GPX</em>).</td>
+</tr>
+<tr>
+<td><img alt="Print" src="svg/print.svg" /></td>
+<td>Print a variety of maps with some customization.</td>
+</tr>
+<tr>
+<td><img alt="Draw" src="svg/draw.svg" /></td>
 <td>The drawing widget allows users to add text or draw on the map. Some versions<br>also allow you to measure areas and distances as well.</td>
 </tr>
 <tr>
-<td><img alt="placeholder" src="" /></td>
-<td>The Add Data widgets enables adding external data to the map</td>
+<td><img alt="Bookmarks" src="svg/bookmarks.svg" /></td>
+<td>This widget displays a list of predefined spatial bookmarks. Users can add and<br>delete bookmarks and those changes are maintained on your computer unitl<br> you empty your browser cache.</td>
+</tr>
+<tr>
+<td><img alt="Share" src="svg/share.svg" /></td>
+<td>Share the map via 1) embed, 2) QR code, 3) email, and 4) Link.</td>
+</tr>
+<tr>
+<td><img alt="Info Button" src="svg/info.svg" /></td>
+<td>A widget that links back to the help page.</td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +141,8 @@
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../map/" class="btn btn-neutral float-left" title="Map"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href=".." class="btn btn-neutral float-left" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../map/" class="btn btn-neutral float-right" title="Map">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -144,8 +165,10 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../map/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href=".." style="color: #fcfcfc">&laquo; Previous</a></span>
     
+    
+      <span><a href="../map/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
