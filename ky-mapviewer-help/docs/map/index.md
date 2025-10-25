@@ -11,12 +11,12 @@ The map layout may vary from app to app but the map tool functionality will be c
 
 ### Button Navigation
 
-|  Tool                                 | Description                            |
-| ------------------------------------- | -------------------------------------- |
+|  Tool                                                                               | Description                  |
+| ---------------------------------- | ----------------------------------------------------------------------------- |
 | ![zoom](assets/zoom-buttons.png)   | Clicking plus (+) and (-) zoom the map in and out. By default, the map uses the [Bing Maps](https://learn.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system) scale. |
 | ![home](assets/home-button.png)    | The home button returns the map to the default extent (statewide). |
 | ![Extent Buttons](assets/extent-buttons.png) | These buttons allow the user to navigate to previous and next extents while using the map. |
-| ![locate](assets/locate.png)  | The locate icon ceneters on your location. *Location Services must be enabled* |
+| ![locate](assets/locate.png)       | The locate icon ceneters on your location. *Location Services must be enabled* |
 
 ### Keyboard Navigation 
 

@@ -1,12 +1,41 @@
 # Home
 
-If the Help navigation pane is collaped, you can use the burger button to navigate the help menu.
-<p align="center">
-    <img src="media/burger-button.png" height="40" width="auto" />
-    <figcaption><strong>Figure 1:</strong> Navigation pane collapsed.</figcaption>
-</p>  
+This page is intended to provide some basic instructions for using a Kentucky Map Viewer.  DGI's implementation of the Web Apps built using the ArcGIS Experience Builder Developer Edition is similar to out-of-the-box templates provided by Esri. Use the links in the navigation pane on the left to quickly access a specific help topic.
 
-This page is intended to provide some basic instructions for using a Kentucky Map Viewer.  DGI's implementation of the Web Apps built using the ArcGIS Experience Builder Developer Edition is similar to out-of-the-box templates provided by Esri. Use the links in the navigation pane above to quickly access a specific help topic.
+Direct link to Map [documentation](map/index.md)
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 70%; padding-right: 20px;">
+      <h3>Table of Contents</h3>
+      <ul>
+        <li>Home</li>
+        <li>Menus</li>
+        <li>Map/li>
+        <li>Navigation
+          <ul>
+            <li>Button Navigation</li>
+            <li>Keyboard Navigation</li>
+            <li>Mouse Navigation</li>
+          </ul>
+        </li>
+        <li>Working with Layers
+          <ul>
+            <li>Base Layers</li>
+            <li>Thematic Layers</li>
+          </ul>
+        </li>
+        <li>Search</li>
+        <li>Getting Map Coordinates</li>
+        <li>Inset Map</li>
+        <li>Nexrad</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; text-align: center; width: 30%;"><br>
+      <img src="media/navigation-pane.png" width="325" style="max-width: 400px; height: auto;" alt="Navigation Pane" />
+    </td>
+  </tr>
+</table>
 
 ## Available Webmap Apps
 >>
@@ -40,4 +69,9 @@ This page is intended to provide some basic instructions for using a Kentucky Ma
 | KyFromAbove Stac-Browser               | [https://kygeonet.ky.gov/stac](https://kygeonet.ky.gov/stac)                |
 | KyGeoNet Home Page.                    | [https://kygeonet.ky.gov/](https://kygeonet.ky.gov/)                        | 
 
-
+___
+If the Help navigation pane is collaped, you can use the burger button to navigate the help menu.
+<p align="center">
+    <img src="media/burger-button.png" height="40" width="auto" />
+    <figcaption><strong>Figure 1:</strong> Navigation pane collapsed.</figcaption>
+</p>  
