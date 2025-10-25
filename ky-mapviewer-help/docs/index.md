@@ -12,15 +12,15 @@ This page is intended to provide some basic instructions for using a Kentucky Ma
 >>
 | Title                                | Link                                                                        |
 | -------------------------------------| --------------------------------------------------------------------------- |
-| The Commonwealth Basemap             | [https://kygeonet.ky.gov/kdfwr](https://kygeonet.ky.gov/kdfwr)              |
+| The Commonwealth Basemap             | [https://kygeonet.ky.gov/tcm](https://kygeonet.ky.gov/tcm)                  |
 | KyFromAbove Before & After           | [https://kygeonet.ky.gov/beforeafter](https://kygeonet.ky.gov/beforeafter)  |
-| Kentucky's Hunting and Fishing Sites | [https://kygeonet.ky.gov/tcm](https://kygeonet.ky.gov/tcm)                  |
-| Kentucky Water Mapping               | [https://kygeonet.ky.gov/kia/dw](https://kygeonet.ky.gov/dia/dw)            |
+| Kentucky's Hunting and Fishing Sites | [https://kygeonet.ky.gov/kdfwr](https://kygeonet.ky.gov/kdfwr)              |
+| Kentucky Water Mapping               | [https://kygeonet.ky.gov/kia/dw](https://kygeonet.ky.gov/kia/dw)            |
 | Kentucky Wastewater Mapping          | [https://kygeonet.ky.gov/kia/cw](https://kygeonet.ky.gov/kia/cw)            |
 | Kentucky Adventure Tourism           | [https://kygeonet.ky.gov/kyadventure](https://kygeonet.ky.gov/kyadventure)  |
 | Kentucky's Incorporated Cities       | [https://kygeonet.ky.gov/kycities](https://kygeonet.ky.gov/kycities)        |
 | Kentucky Legislative Districts       | [https://kygeonet.ky.gov/kydistricts](https://kygeonet.ky.gov/kydistricts)  |
-| Kentucky Library Locations           | [https://kygeonet.ky.gov/kylibraries](https://kygeonet.ky.gov/libraries)    |
+| Kentucky Library Locations           | [https://kygeonet.ky.gov/kylibraries](https://kygeonet.ky.gov/kylibraries)  |
 | Kentucky Parks                       | [https://kygeonet.ky.gov/kyparks](https://kygeonet.ky.gov/kyparks)          |
 | Kentucky Schools                     | [https://kygeonet.ky.gov/kyschools](https://kygeonet.ky.gov/kyschools)      |
 | Kentucky School Districts            | [https://kygeonet.ky.gov/kyschooldistricts](https://kygeonet.ky.gov/kyschooldistricts) |
