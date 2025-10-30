@@ -11,7 +11,7 @@ Direct link to Map [documentation](map/index.md)
       <ul>
         <li>Home</li>
         <li>Menus</li>
-        <li>Map/li>
+        <li>Map</li>
         <li>Navigation
           <ul>
             <li>Button Navigation</li>
@@ -61,13 +61,13 @@ Direct link to Map [documentation](map/index.md)
 
 ## Other Websites and Apps
 >>
-| Title                                  | Link                                                                        |
-| ---------------------------------------| --------------------------------------------------------------------------- |
-| KyFromAbove Home Page                  | [https://kyfromabove.ky.gov/](https://kyfromabove.ky.gov/)                  |
-| KyFromAbove Explorer - Oblique Imagery | [https://explore.kyfromabove.ky.gov/](https://explore.kyfromabove.ky.gov/)  |
-| Kentucky State Plane Coordinate System | [https://geodesy.ky.gov](https:geodesy.ky.gov/)                             |
-| KyFromAbove Stac-Browser               | [https://kygeonet.ky.gov/stac](https://kygeonet.ky.gov/stac)                |
-| KyGeoNet Home Page.                    | [https://kygeonet.ky.gov/](https://kygeonet.ky.gov/)                        | 
+| Title                                  | Link                                                          |                                                                   
+|--------------------------------------- | ------------------------------------------------------------- |
+| KyFromAbove Home Page                  | [https://kyfromabove.ky.gov/](https://kyfromabove.ky.gov/)    |
+| KyFromAbove Explorer - Oblique Imagery | [https://explore.kyfromabove.ky.gov/](https://explore.kyfromabove.ky.gov/) |
+| Kentucky State Plane Coordinate System | [https://geodesy.ky.gov](https:geodesy.ky.gov/)               |
+| KyFromAbove Stac-Browser               | [https://kygeonet.ky.gov/stac](https://kygeonet.ky.gov/stac)  |
+| KyGeoNet Home Page                     | [https://kygeonet.ky.gov/](https://kygeonet.ky.gov/)          | 
 
 ___
 If the Help navigation pane is collaped, you can use the burger button to navigate the help menu.
