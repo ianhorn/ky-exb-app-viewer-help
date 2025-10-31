@@ -8,7 +8,7 @@ The main toolbar can contain tools that interact with the map, bring up a widget
 | ---- | ----------- |
 | ![Zoom to County](svg/zoom-to-county.svg)      | The Zoom to County widget allows users to zoom to a particular County. |  
 | ![Zoom to City](svg/zoom-to-city.svg)          | The Zoom to City widget widget allows users to zoom to a particular City.  | 
-| ![School and Hospital Search](svg/school-hospital-search.svg)  | This widget allows users to zoome to schools and hospitals.  |   
+| ![School and Hospital Search](svg/school-hospital-search.svg)  | This widget allows users to zoom to schools and hospitals.  |   
 | ![Legend](svg/legends.svg)                     | The Legend widget shows the symbology of map layers and changes as layers<br>are turned on or off. |
 | ![Layers](svg/layers.svg)                      | The Map Layers widget shows the layers in the map and allows users to turn<br>them on, off, change the transparency, zoom to that layer, or even open the attribute table. |
 | ![Basemaps](svg/basemaps.svg)                  | The Base Map widget allows users to select from a gallery of available base<br>map layers. |
